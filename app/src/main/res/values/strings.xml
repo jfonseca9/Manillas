@@ -1,0 +1,56 @@
+<resources>
+    <string name="app_name">Taller1_Manillas</string>
+    <string name="titulo">ManillasXYZ</string>
+    <string name="mensaje1">Elige las caracteristicas de tu Manilla:</string>
+    <string name="mensaje2">Cantidad deseada:</string>
+    <string name="calcular">Calcular</string>
+    <string name="precioTotal">Precio Total:</string>
+    <string name="precioUnitario">Precio Unitario:</string>
+
+    <string-array name="material">
+        <item>@string/Seleccione1</item>
+        <item>@string/cuero</item>
+        <item>@string/cuerda</item>
+    </string-array>
+    <string-array name="dije">
+        <item>@string/Seleccione2</item>
+        <item>@string/martillo</item>
+        <item>@string/ancla</item>
+    </string-array>
+    <string-array name="tipo">
+        <item>@string/Seleccione3</item>
+        <item>@string/oro</item>
+        <item>@string/oroRosado</item>
+        <item>@string/plata</item>
+        <item>@string/niquel</item>
+    </string-array>
+    <string-array name="moneda">
+        <item>@string/Seleccione4</item>
+        <item>@string/peso</item>
+        <item>@string/dolar</item>
+    </string-array>
+    <string name="dije">Dije</string>
+    <string name="material">Material</string>
+    <string name="moneda">Moneda</string>
+    <string name="tipo">Tipo</string>
+    <string name="Seleccione1">Seleccione un material</string>
+    <string name="cuero">Cuero</string>
+    <string name="Seleccione2">Seleccione un dije</string>
+    <string name="cuerda">Cuerda</string>
+    <string name="martillo">Martillo</string>
+    <string name="ancla">Ancla</string>
+    <string name="Seleccione3">Seleccione un tipo</string>
+    <string name="oro">Oro</string>
+    <string name="oroRosado">Oro rosado</string>
+    <string name="niquel">Niquel</string>
+    <string name="plata">Plata</string>
+    <string name="Seleccione4">Seleccione la moneda</string>
+    <string name="peso">Peso (COP)</string>
+    <string name="dolar">Dolar (USD)</string>
+    <string name="mensaje_error_1">Debe comprar por lo menos una manilla</string>
+    <string name="mensaje_error_3">Debe elegir el dije de su manilla</string>
+    <string name="mensaje_error_2">Debe elegir el tipo de manilla</string>
+    <string name="mensaje_error_4">Debe elegir la moneda</string>
+    <string name="mensaje_error_5">Debe elegir el material de su manilla</string>
+    <string name="limpiar">Limpiar</string>
+</resources>
