@@ -1,7 +1,7 @@
 <resources>
-    <string name="app_name">Taller1_Manillas</string>
+    <string name="app_name">TallerManillas</string>
     <string name="titulo">ManillasXYZ</string>
-    <string name="mensaje1">Elige las caracteristicas de tu Manilla:</string>
+    <string name="mensaje1" translatable="false">Elige las caracteristicas de tu Manilla:</string>
     <string name="mensaje2">Cantidad deseada:</string>
     <string name="calcular">Calcular</string>
     <string name="precioTotal">Precio Total:</string>

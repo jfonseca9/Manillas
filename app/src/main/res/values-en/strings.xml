@@ -1,2 +1,34 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources></resources>
+<resources>
+    <string name="app_name">TallerManillas</string>
+    <string name="calcular">Calculate</string>
+    <string name="mensaje1">Choose the characteristics of your Handle:</string>
+    <string name="mensaje2">Quantity desired</string>
+    <string name="precioTotal">Total price:</string>
+    <string name="precioUnitario">Unit price:</string>
+    <string name="titulo">BraceletApp</string>
+    <string name="material">material</string>
+    <string name="dije">pendent</string>
+    <string name="tipo">type</string>
+    <string name="moneda">coin</string>
+    <string name="Seleccione1">Select a material</string>
+    <string name="cuero">Leather</string>
+    <string name="Seleccione2">Select a pendent</string>
+    <string name="cuerda">Cord</string>
+    <string name="Seleccione3">Select a type</string>
+    <string name="Seleccione4">Select a coin</string>
+    <string name="ancla">Anchor</string>
+    <string name="dolar">Dollar (USD)</string>
+    <string name="martillo">Hammer</string>
+    <string name="niquel">Nickel</string>
+    <string name="oro">Gold</string>
+    <string name="oroRosado">Pink gold</string>
+    <string name="peso">Peso (COP)</string>
+    <string name="plata">Silver</string>
+    <string name="mensaje_error_1">Must buy at least one handle</string>
+    <string name="mensaje_error_3">You must choose the pendent of your handle</string>
+    <string name="mensaje_error_2">You must indicate the type of handles</string>
+    <string name="mensaje_error_4">You must indicate the coin of handles</string>
+    <string name="mensaje_error_5">You must indicate the material of handles</string>
+    <string name="limpiar">Clear</string>
+</resources>

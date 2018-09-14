@@ -6,6 +6,7 @@
     android:layout_height="match_parent"
 
 
+    android:background="@drawable/img"
     tools:layout_editor_absoluteX="0dp"
     tools:layout_editor_absoluteY="81dp">
 
@@ -49,7 +50,7 @@
             android:layout_width="300dp"
             android:layout_height="wrap_content"
             android:layout_weight="0.10"
-            android:popupBackground="#F4FF81"
+            android:popupBackground="@android:color/holo_blue_bright"
             android:visibility="visible" />
 
         <Spinner
@@ -58,7 +59,7 @@
             android:layout_width="300dp"
             android:layout_height="wrap_content"
             android:layout_weight="0.09"
-            android:popupBackground="#F4FF81" />
+            android:popupBackground="@android:color/holo_blue_bright" />
 
         <Spinner
             android:id="@+id/cmbTipo"
@@ -66,7 +67,7 @@
             android:layout_width="300dp"
             android:layout_height="wrap_content"
             android:layout_weight="0.12"
-            android:popupBackground="#F4FF81" />
+            android:popupBackground="@android:color/holo_blue_bright" />
 
         <Spinner
             android:id="@+id/cmbMoneda"
@@ -74,7 +75,7 @@
             android:layout_width="300dp"
             android:layout_height="wrap_content"
             android:layout_weight="0.10"
-            android:popupBackground="#F4FF81" />
+            android:popupBackground="@android:color/holo_blue_bright" />
 
         <TextView
             android:id="@+id/textView"
@@ -170,11 +171,12 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_weight="0.01"
-                android:background="#D9DA1F"
+                android:background="@color/colorPrimary"
                 android:backgroundTint="#D9DA1F"
                 android:onClick="limpiar"
                 android:shadowColor="@android:color/background_dark"
-                android:text="@string/limpiar" />
+                android:text="@string/limpiar"
+                android:textAlignment="center" />
 
             <TextView
                 android:id="@+id/textView9"
